@@ -5,4 +5,4 @@ for element in my_list:
 
     print(element)
 
-
+print("ibrahim ömer öztaş göt müsün?")
